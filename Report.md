@@ -9,7 +9,7 @@
   6. Epsilon w.r.t Epsilon Greedy method is the only hyperparameter optimized. The Decay represents a gradual shift from Exploration to Exploitation over time during the training process
   
 ## Plot of Rewards
-<img src="Score.png"/>
+<img src="score.png"/>
 
 ## Ideas for Future Work
 Try to implement the below algorithms on top of the current codebase:
